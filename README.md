@@ -37,3 +37,8 @@ El objetivo fue entrenar la red con canciones escritas por metallica para poder 
 Se logro generar salidas, pero sigue pareciendo que le falta entrenamiento. Me quedo con la duda sin con mas recursos computacionales es podria haber generado algo mejor.
 
 https://github.com/kenny08gt/proyecto_statistical_learning2/blob/master/ProyectoSL2_P3.ipynb
+
+## Conclusiones
+* Cada problema presento sus retos diferentes, sin embargo algo comun fue que los datasets no estaban preparados, o si servirian para el objetivo de cada uno, sin saber si iban a converger. 
+* El poder de computo es un gran handicap. Google collab ofrece gpu pero con memoria limitada, por itempo limitado y a veces deja de responder.
+* El futuro de estas herramientas es maravilloso y no me queda mas que emoción para esperarlo.
